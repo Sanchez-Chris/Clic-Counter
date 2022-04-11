@@ -1,0 +1,29 @@
+button {
+    margin-top: 15px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: roboto, sans-serif;
+    width: 300px;
+    height: 80px;
+    border: 2px solid white;
+    cursor: pointer;
+    font-size: 35px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+
+button:hover{
+    background-color: #00471b;
+}
+
+.button-clic {
+    background-color: #002ead;
+}
+
+.button-reset {
+    background-color: #5a01a7;
+}

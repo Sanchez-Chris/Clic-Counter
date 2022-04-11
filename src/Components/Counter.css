@@ -1,0 +1,19 @@
+
+
+.counter-box {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8git initpx solid aliceblue;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    font-size: 160px;
+    font-weight: bold;
+
+
+}
+
+
